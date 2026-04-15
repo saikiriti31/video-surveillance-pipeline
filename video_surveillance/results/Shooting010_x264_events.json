@@ -1,0 +1,81 @@
+{
+  "video": "Shooting010_x264",
+  "total_events": 4,
+  "summary": {
+    "total_events": 4,
+    "intrusions": 4,
+    "loiterings": 0,
+    "exits": 7,
+    "deduplicated": 4
+  },
+  "events": [
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 4,
+      "frame_number": 20,
+      "timestamp": 0.6667,
+      "bbox": [
+        176,
+        105,
+        245,
+        210
+      ],
+      "confidence": 0.7034,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 6,
+      "frame_number": 409,
+      "timestamp": 13.6333,
+      "bbox": [
+        17,
+        105,
+        93,
+        201
+      ],
+      "confidence": 0.5708,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 6,
+      "frame_number": 662,
+      "timestamp": 22.0667,
+      "bbox": [
+        176,
+        84,
+        228,
+        204
+      ],
+      "confidence": 0.7915,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 6,
+      "frame_number": 842,
+      "timestamp": 28.0667,
+      "bbox": [
+        131,
+        89,
+        204,
+        210
+      ],
+      "confidence": 0.7566,
+      "duration_seconds": null,
+      "metadata": {}
+    }
+  ]
+}

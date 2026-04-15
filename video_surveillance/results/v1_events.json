@@ -1,0 +1,880 @@
+{
+  "video": "v1",
+  "total_events": 51,
+  "summary": {
+    "total_events": 51,
+    "intrusions": 50,
+    "loiterings": 1,
+    "exits": 15,
+    "deduplicated": 3
+  },
+  "events": [
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_parking_lot",
+      "zone_label": "Parking Lot",
+      "track_id": 5,
+      "frame_number": 0,
+      "timestamp": 0.0,
+      "bbox": [
+        391,
+        268,
+        417,
+        334
+      ],
+      "confidence": 0.8182,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_parking_lot",
+      "zone_label": "Parking Lot",
+      "track_id": 6,
+      "frame_number": 1,
+      "timestamp": 0.0417,
+      "bbox": [
+        519,
+        325,
+        544,
+        412
+      ],
+      "confidence": 0.7735,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_perimeter",
+      "zone_label": "Perimeter",
+      "track_id": 3,
+      "frame_number": 7,
+      "timestamp": 0.292,
+      "bbox": [
+        811,
+        447,
+        854,
+        572
+      ],
+      "confidence": 0.6644,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_parking_lot",
+      "zone_label": "Parking Lot",
+      "track_id": 15,
+      "frame_number": 16,
+      "timestamp": 0.6675,
+      "bbox": [
+        538,
+        313,
+        557,
+        396
+      ],
+      "confidence": 0.3032,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_perimeter",
+      "zone_label": "Perimeter",
+      "track_id": 2,
+      "frame_number": 18,
+      "timestamp": 0.7509,
+      "bbox": [
+        854,
+        450,
+        908,
+        602
+      ],
+      "confidence": 0.8635,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 16,
+      "frame_number": 18,
+      "timestamp": 0.7509,
+      "bbox": [
+        74,
+        274,
+        97,
+        320
+      ],
+      "confidence": 0.6532,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 17,
+      "frame_number": 20,
+      "timestamp": 0.8344,
+      "bbox": [
+        88,
+        272,
+        111,
+        323
+      ],
+      "confidence": 0.5826,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_perimeter",
+      "zone_label": "Perimeter",
+      "track_id": 1,
+      "frame_number": 31,
+      "timestamp": 1.2933,
+      "bbox": [
+        889,
+        420,
+        944,
+        575
+      ],
+      "confidence": 0.8381,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_parking_lot",
+      "zone_label": "Parking Lot",
+      "track_id": 7,
+      "frame_number": 32,
+      "timestamp": 1.335,
+      "bbox": [
+        373,
+        277,
+        397,
+        341
+      ],
+      "confidence": 0.77,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_parking_lot",
+      "zone_label": "Parking Lot",
+      "track_id": 18,
+      "frame_number": 42,
+      "timestamp": 1.7522,
+      "bbox": [
+        489,
+        310,
+        513,
+        358
+      ],
+      "confidence": 0.3267,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 22,
+      "frame_number": 69,
+      "timestamp": 2.8786,
+      "bbox": [
+        195,
+        229,
+        206,
+        257
+      ],
+      "confidence": 0.3168,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 25,
+      "frame_number": 79,
+      "timestamp": 3.2958,
+      "bbox": [
+        229,
+        233,
+        243,
+        267
+      ],
+      "confidence": 0.4525,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_parking_lot",
+      "zone_label": "Parking Lot",
+      "track_id": 29,
+      "frame_number": 90,
+      "timestamp": 3.7547,
+      "bbox": [
+        389,
+        262,
+        408,
+        310
+      ],
+      "confidence": 0.5099,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 36,
+      "frame_number": 117,
+      "timestamp": 4.8811,
+      "bbox": [
+        200,
+        228,
+        213,
+        259
+      ],
+      "confidence": 0.3142,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 37,
+      "frame_number": 118,
+      "timestamp": 4.9228,
+      "bbox": [
+        232,
+        212,
+        253,
+        269
+      ],
+      "confidence": 0.3684,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 40,
+      "frame_number": 129,
+      "timestamp": 5.3817,
+      "bbox": [
+        235,
+        235,
+        249,
+        268
+      ],
+      "confidence": 0.3335,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 52,
+      "frame_number": 164,
+      "timestamp": 6.8419,
+      "bbox": [
+        205,
+        230,
+        218,
+        264
+      ],
+      "confidence": 0.3356,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 54,
+      "frame_number": 165,
+      "timestamp": 6.8836,
+      "bbox": [
+        193,
+        230,
+        207,
+        259
+      ],
+      "confidence": 0.3266,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_parking_lot",
+      "zone_label": "Parking Lot",
+      "track_id": 60,
+      "frame_number": 184,
+      "timestamp": 7.6763,
+      "bbox": [
+        450,
+        283,
+        474,
+        319
+      ],
+      "confidence": 0.3534,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_parking_lot",
+      "zone_label": "Parking Lot",
+      "track_id": 64,
+      "frame_number": 195,
+      "timestamp": 8.1352,
+      "bbox": [
+        397,
+        284,
+        432,
+        356
+      ],
+      "confidence": 0.4137,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 29,
+      "frame_number": 197,
+      "timestamp": 8.2186,
+      "bbox": [
+        341,
+        238,
+        358,
+        286
+      ],
+      "confidence": 0.3649,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_parking_lot",
+      "zone_label": "Parking Lot",
+      "track_id": 66,
+      "frame_number": 203,
+      "timestamp": 8.4689,
+      "bbox": [
+        405,
+        324,
+        436,
+        359
+      ],
+      "confidence": 0.3321,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_parking_lot",
+      "zone_label": "Parking Lot",
+      "track_id": 73,
+      "frame_number": 225,
+      "timestamp": 9.3867,
+      "bbox": [
+        454,
+        318,
+        490,
+        414
+      ],
+      "confidence": 0.4171,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_parking_lot",
+      "zone_label": "Parking Lot",
+      "track_id": 76,
+      "frame_number": 240,
+      "timestamp": 10.0125,
+      "bbox": [
+        463,
+        321,
+        505,
+        373
+      ],
+      "confidence": 0.3205,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 80,
+      "frame_number": 245,
+      "timestamp": 10.2211,
+      "bbox": [
+        226,
+        228,
+        244,
+        270
+      ],
+      "confidence": 0.5122,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_parking_lot",
+      "zone_label": "Parking Lot",
+      "track_id": 2,
+      "frame_number": 266,
+      "timestamp": 11.0972,
+      "bbox": [
+        570,
+        337,
+        587,
+        407
+      ],
+      "confidence": 0.2777,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_parking_lot",
+      "zone_label": "Parking Lot",
+      "track_id": 71,
+      "frame_number": 281,
+      "timestamp": 11.723,
+      "bbox": [
+        495,
+        321,
+        523,
+        413
+      ],
+      "confidence": 0.7752,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_perimeter",
+      "zone_label": "Perimeter",
+      "track_id": 90,
+      "frame_number": 281,
+      "timestamp": 11.723,
+      "bbox": [
+        569,
+        364,
+        615,
+        473
+      ],
+      "confidence": 0.6732,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_parking_lot",
+      "zone_label": "Parking Lot",
+      "track_id": 1,
+      "frame_number": 282,
+      "timestamp": 11.7647,
+      "bbox": [
+        588,
+        317,
+        620,
+        408
+      ],
+      "confidence": 0.7637,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 93,
+      "frame_number": 284,
+      "timestamp": 11.8481,
+      "bbox": [
+        62,
+        226,
+        95,
+        319
+      ],
+      "confidence": 0.3279,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_perimeter",
+      "zone_label": "Perimeter",
+      "track_id": 95,
+      "frame_number": 286,
+      "timestamp": 11.9316,
+      "bbox": [
+        573,
+        349,
+        607,
+        470
+      ],
+      "confidence": 0.7504,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 99,
+      "frame_number": 288,
+      "timestamp": 12.015,
+      "bbox": [
+        234,
+        230,
+        249,
+        276
+      ],
+      "confidence": 0.4162,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 107,
+      "frame_number": 296,
+      "timestamp": 12.3488,
+      "bbox": [
+        217,
+        248,
+        234,
+        284
+      ],
+      "confidence": 0.3073,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_parking_lot",
+      "zone_label": "Parking Lot",
+      "track_id": 108,
+      "frame_number": 297,
+      "timestamp": 12.3905,
+      "bbox": [
+        595,
+        280,
+        628,
+        367
+      ],
+      "confidence": 0.4206,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_perimeter",
+      "zone_label": "Perimeter",
+      "track_id": 108,
+      "frame_number": 297,
+      "timestamp": 12.3905,
+      "bbox": [
+        595,
+        280,
+        628,
+        367
+      ],
+      "confidence": 0.4206,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_parking_lot",
+      "zone_label": "Parking Lot",
+      "track_id": 97,
+      "frame_number": 299,
+      "timestamp": 12.4739,
+      "bbox": [
+        529,
+        324,
+        552,
+        411
+      ],
+      "confidence": 0.7475,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_parking_lot",
+      "zone_label": "Parking Lot",
+      "track_id": 111,
+      "frame_number": 302,
+      "timestamp": 12.5991,
+      "bbox": [
+        476,
+        316,
+        506,
+        357
+      ],
+      "confidence": 0.3135,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_parking_lot",
+      "zone_label": "Parking Lot",
+      "track_id": 116,
+      "frame_number": 332,
+      "timestamp": 13.8506,
+      "bbox": [
+        542,
+        312,
+        558,
+        392
+      ],
+      "confidence": 0.626,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 120,
+      "frame_number": 342,
+      "timestamp": 14.2678,
+      "bbox": [
+        207,
+        229,
+        222,
+        259
+      ],
+      "confidence": 0.3484,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 131,
+      "frame_number": 388,
+      "timestamp": 16.1869,
+      "bbox": [
+        51,
+        276,
+        74,
+        335
+      ],
+      "confidence": 0.3327,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 134,
+      "frame_number": 396,
+      "timestamp": 16.5207,
+      "bbox": [
+        73,
+        274,
+        92,
+        316
+      ],
+      "confidence": 0.3948,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 141,
+      "frame_number": 428,
+      "timestamp": 17.8557,
+      "bbox": [
+        108,
+        255,
+        128,
+        323
+      ],
+      "confidence": 0.4142,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 142,
+      "frame_number": 438,
+      "timestamp": 18.2728,
+      "bbox": [
+        219,
+        229,
+        236,
+        271
+      ],
+      "confidence": 0.6601,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 145,
+      "frame_number": 441,
+      "timestamp": 18.398,
+      "bbox": [
+        92,
+        255,
+        115,
+        321
+      ],
+      "confidence": 0.3875,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 6,
+      "frame_number": 495,
+      "timestamp": 20.6508,
+      "bbox": [
+        342,
+        256,
+        357,
+        300
+      ],
+      "confidence": 0.5991,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 147,
+      "frame_number": 497,
+      "timestamp": 20.7343,
+      "bbox": [
+        231,
+        232,
+        243,
+        270
+      ],
+      "confidence": 0.3162,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_parking_lot",
+      "zone_label": "Parking Lot",
+      "track_id": 149,
+      "frame_number": 500,
+      "timestamp": 20.8594,
+      "bbox": [
+        581,
+        275,
+        627,
+        368
+      ],
+      "confidence": 0.3677,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_perimeter",
+      "zone_label": "Perimeter",
+      "track_id": 149,
+      "frame_number": 500,
+      "timestamp": 20.8594,
+      "bbox": [
+        581,
+        275,
+        627,
+        368
+      ],
+      "confidence": 0.3677,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 154,
+      "frame_number": 525,
+      "timestamp": 21.9024,
+      "bbox": [
+        228,
+        229,
+        246,
+        270
+      ],
+      "confidence": 0.3247,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "loitering",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 99,
+      "frame_number": 528,
+      "timestamp": 22.0275,
+      "bbox": [
+        129,
+        248,
+        147,
+        293
+      ],
+      "confidence": 0.6743,
+      "duration_seconds": 10.01,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 155,
+      "frame_number": 544,
+      "timestamp": 22.695,
+      "bbox": [
+        337,
+        251,
+        348,
+        292
+      ],
+      "confidence": 0.3301,
+      "duration_seconds": null,
+      "metadata": {}
+    }
+  ]
+}

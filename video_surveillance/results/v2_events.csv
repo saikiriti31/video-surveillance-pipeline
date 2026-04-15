@@ -1,0 +1,3 @@
+timestamp,frame_number,event_type,zone_id,zone_label,track_id,confidence,duration_seconds,bbox_x1,bbox_y1,bbox_x2,bbox_y2
+3.2366,97,zone_intrusion,zone_parking_lot,Parking Lot,17,0.3495,,375,310,404,393
+22.4224,672,zone_intrusion,zone_parking_lot,Parking Lot,49,0.3457,,407,39,440,143

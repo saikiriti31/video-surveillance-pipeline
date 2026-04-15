@@ -1,0 +1,30 @@
+{
+  "video": "Robbery015_x264",
+  "total_events": 1,
+  "summary": {
+    "total_events": 1,
+    "intrusions": 1,
+    "loiterings": 0,
+    "exits": 1,
+    "deduplicated": 1
+  },
+  "events": [
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_restricted_entrance",
+      "zone_label": "Restricted Entrance",
+      "track_id": 23,
+      "frame_number": 121,
+      "timestamp": 4.0333,
+      "bbox": [
+        113,
+        46,
+        198,
+        225
+      ],
+      "confidence": 0.5084,
+      "duration_seconds": null,
+      "metadata": {}
+    }
+  ]
+}

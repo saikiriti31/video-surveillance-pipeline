@@ -1,0 +1,2 @@
+timestamp,frame_number,event_type,zone_id,zone_label,track_id,confidence,duration_seconds,bbox_x1,bbox_y1,bbox_x2,bbox_y2
+4.0333,121,zone_intrusion,zone_restricted_entrance,Restricted Entrance,23,0.5084,,113,46,198,225

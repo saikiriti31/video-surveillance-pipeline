@@ -18,8 +18,8 @@ htmlcov/
 *.onnx
 
 # Output files
-results/
-*.mp4
+#results/
+#*.mp4
 *.avi
 *.mov
 

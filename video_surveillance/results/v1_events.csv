@@ -1,0 +1,52 @@
+timestamp,frame_number,event_type,zone_id,zone_label,track_id,confidence,duration_seconds,bbox_x1,bbox_y1,bbox_x2,bbox_y2
+0.0,0,zone_intrusion,zone_parking_lot,Parking Lot,5,0.8182,,391,268,417,334
+0.0417,1,zone_intrusion,zone_parking_lot,Parking Lot,6,0.7735,,519,325,544,412
+0.292,7,zone_intrusion,zone_perimeter,Perimeter,3,0.6644,,811,447,854,572
+0.6675,16,zone_intrusion,zone_parking_lot,Parking Lot,15,0.3032,,538,313,557,396
+0.7509,18,zone_intrusion,zone_perimeter,Perimeter,2,0.8635,,854,450,908,602
+0.7509,18,zone_intrusion,zone_restricted_entrance,Restricted Entrance,16,0.6532,,74,274,97,320
+0.8344,20,zone_intrusion,zone_restricted_entrance,Restricted Entrance,17,0.5826,,88,272,111,323
+1.2933,31,zone_intrusion,zone_perimeter,Perimeter,1,0.8381,,889,420,944,575
+1.335,32,zone_intrusion,zone_parking_lot,Parking Lot,7,0.77,,373,277,397,341
+1.7522,42,zone_intrusion,zone_parking_lot,Parking Lot,18,0.3267,,489,310,513,358
+2.8786,69,zone_intrusion,zone_restricted_entrance,Restricted Entrance,22,0.3168,,195,229,206,257
+3.2958,79,zone_intrusion,zone_restricted_entrance,Restricted Entrance,25,0.4525,,229,233,243,267
+3.7547,90,zone_intrusion,zone_parking_lot,Parking Lot,29,0.5099,,389,262,408,310
+4.8811,117,zone_intrusion,zone_restricted_entrance,Restricted Entrance,36,0.3142,,200,228,213,259
+4.9228,118,zone_intrusion,zone_restricted_entrance,Restricted Entrance,37,0.3684,,232,212,253,269
+5.3817,129,zone_intrusion,zone_restricted_entrance,Restricted Entrance,40,0.3335,,235,235,249,268
+6.8419,164,zone_intrusion,zone_restricted_entrance,Restricted Entrance,52,0.3356,,205,230,218,264
+6.8836,165,zone_intrusion,zone_restricted_entrance,Restricted Entrance,54,0.3266,,193,230,207,259
+7.6763,184,zone_intrusion,zone_parking_lot,Parking Lot,60,0.3534,,450,283,474,319
+8.1352,195,zone_intrusion,zone_parking_lot,Parking Lot,64,0.4137,,397,284,432,356
+8.2186,197,zone_intrusion,zone_restricted_entrance,Restricted Entrance,29,0.3649,,341,238,358,286
+8.4689,203,zone_intrusion,zone_parking_lot,Parking Lot,66,0.3321,,405,324,436,359
+9.3867,225,zone_intrusion,zone_parking_lot,Parking Lot,73,0.4171,,454,318,490,414
+10.0125,240,zone_intrusion,zone_parking_lot,Parking Lot,76,0.3205,,463,321,505,373
+10.2211,245,zone_intrusion,zone_restricted_entrance,Restricted Entrance,80,0.5122,,226,228,244,270
+11.0972,266,zone_intrusion,zone_parking_lot,Parking Lot,2,0.2777,,570,337,587,407
+11.723,281,zone_intrusion,zone_parking_lot,Parking Lot,71,0.7752,,495,321,523,413
+11.723,281,zone_intrusion,zone_perimeter,Perimeter,90,0.6732,,569,364,615,473
+11.7647,282,zone_intrusion,zone_parking_lot,Parking Lot,1,0.7637,,588,317,620,408
+11.8481,284,zone_intrusion,zone_restricted_entrance,Restricted Entrance,93,0.3279,,62,226,95,319
+11.9316,286,zone_intrusion,zone_perimeter,Perimeter,95,0.7504,,573,349,607,470
+12.015,288,zone_intrusion,zone_restricted_entrance,Restricted Entrance,99,0.4162,,234,230,249,276
+12.3488,296,zone_intrusion,zone_restricted_entrance,Restricted Entrance,107,0.3073,,217,248,234,284
+12.3905,297,zone_intrusion,zone_parking_lot,Parking Lot,108,0.4206,,595,280,628,367
+12.3905,297,zone_intrusion,zone_perimeter,Perimeter,108,0.4206,,595,280,628,367
+12.4739,299,zone_intrusion,zone_parking_lot,Parking Lot,97,0.7475,,529,324,552,411
+12.5991,302,zone_intrusion,zone_parking_lot,Parking Lot,111,0.3135,,476,316,506,357
+13.8506,332,zone_intrusion,zone_parking_lot,Parking Lot,116,0.626,,542,312,558,392
+14.2678,342,zone_intrusion,zone_restricted_entrance,Restricted Entrance,120,0.3484,,207,229,222,259
+16.1869,388,zone_intrusion,zone_restricted_entrance,Restricted Entrance,131,0.3327,,51,276,74,335
+16.5207,396,zone_intrusion,zone_restricted_entrance,Restricted Entrance,134,0.3948,,73,274,92,316
+17.8557,428,zone_intrusion,zone_restricted_entrance,Restricted Entrance,141,0.4142,,108,255,128,323
+18.2728,438,zone_intrusion,zone_restricted_entrance,Restricted Entrance,142,0.6601,,219,229,236,271
+18.398,441,zone_intrusion,zone_restricted_entrance,Restricted Entrance,145,0.3875,,92,255,115,321
+20.6508,495,zone_intrusion,zone_restricted_entrance,Restricted Entrance,6,0.5991,,342,256,357,300
+20.7343,497,zone_intrusion,zone_restricted_entrance,Restricted Entrance,147,0.3162,,231,232,243,270
+20.8594,500,zone_intrusion,zone_parking_lot,Parking Lot,149,0.3677,,581,275,627,368
+20.8594,500,zone_intrusion,zone_perimeter,Perimeter,149,0.3677,,581,275,627,368
+21.9024,525,zone_intrusion,zone_restricted_entrance,Restricted Entrance,154,0.3247,,228,229,246,270
+22.0275,528,loitering,zone_restricted_entrance,Restricted Entrance,99,0.6743,10.01,129,248,147,293
+22.695,544,zone_intrusion,zone_restricted_entrance,Restricted Entrance,155,0.3301,,337,251,348,292

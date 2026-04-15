@@ -1,0 +1,47 @@
+{
+  "video": "v2",
+  "total_events": 2,
+  "summary": {
+    "total_events": 2,
+    "intrusions": 2,
+    "loiterings": 0,
+    "exits": 0,
+    "deduplicated": 0
+  },
+  "events": [
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_parking_lot",
+      "zone_label": "Parking Lot",
+      "track_id": 17,
+      "frame_number": 97,
+      "timestamp": 3.2366,
+      "bbox": [
+        375,
+        310,
+        404,
+        393
+      ],
+      "confidence": 0.3495,
+      "duration_seconds": null,
+      "metadata": {}
+    },
+    {
+      "event_type": "zone_intrusion",
+      "zone_id": "zone_parking_lot",
+      "zone_label": "Parking Lot",
+      "track_id": 49,
+      "frame_number": 672,
+      "timestamp": 22.4224,
+      "bbox": [
+        407,
+        39,
+        440,
+        143
+      ],
+      "confidence": 0.3457,
+      "duration_seconds": null,
+      "metadata": {}
+    }
+  ]
+}
