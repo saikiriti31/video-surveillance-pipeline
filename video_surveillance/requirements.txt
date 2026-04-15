@@ -1,0 +1,34 @@
+# ============================================================
+# Video Surveillance Pipeline — Dependencies
+# ============================================================
+
+# Core CV & detection
+ultralytics>=8.1.0          # YOLOv9 + ByteTrack (integrated tracker)
+opencv-python>=4.8.0        # video I/O, drawing, image processing
+opencv-contrib-python>=4.8.0
+
+# Spatial math
+shapely>=2.0.0              # robust point-in-polygon, polygon operations
+
+# ML / compute
+torch>=2.0.0                # PyTorch backend for YOLOv9
+torchvision>=0.15.0
+
+# Scientific computing
+numpy>=1.24.0
+scipy>=1.10.0               # optional: for advanced trajectory smoothing
+
+# Utilities
+tqdm>=4.65.0                # progress bars (used in batch mode)
+pyyaml>=6.0                 # YAML config support (ByteTrack config)
+Pillow>=9.5.0               # image support (used by ultralytics)
+
+# Optional: ONNX export for deployment
+# onnx>=1.14.0
+# onnxruntime>=1.15.0
+# onnxruntime-gpu>=1.15.0   # GPU variant
+
+# Optional: FastAPI web interface (stretch goal)
+# fastapi>=0.100.0
+# uvicorn>=0.22.0
+# websockets>=11.0

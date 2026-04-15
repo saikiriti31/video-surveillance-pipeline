@@ -1,0 +1,31 @@
+{
+  "_comment": "Example zones for MOT17 sequences (typically 1920x1080 or 640x480)",
+  "zones": [
+    {
+      "id": "left_corridor",
+      "label": "Left Corridor",
+      "color": [0, 0, 255],
+      "polygon": [
+        [0, 200],
+        [200, 200],
+        [200, 600],
+        [0, 600]
+      ],
+      "loitering_threshold_seconds": 8.0,
+      "alert_cooldown_seconds": 20.0
+    },
+    {
+      "id": "center_zone",
+      "label": "Center Area",
+      "color": [0, 165, 255],
+      "polygon": [
+        [250, 150],
+        [550, 150],
+        [580, 500],
+        [220, 520]
+      ],
+      "loitering_threshold_seconds": 12.0,
+      "alert_cooldown_seconds": 25.0
+    }
+  ]
+}

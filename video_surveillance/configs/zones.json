@@ -1,0 +1,43 @@
+{
+  "zones": [
+    {
+      "id": "zone_restricted_entrance",
+      "label": "Restricted Entrance",
+      "color": [0, 0, 255],
+      "polygon": [
+        [50, 200],
+        [350, 200],
+        [350, 500],
+        [50, 500]
+      ],
+      "loitering_threshold_seconds": 10.0,
+      "alert_cooldown_seconds": 30.0
+    },
+    {
+      "id": "zone_parking_lot",
+      "label": "Parking Lot",
+      "color": [255, 128, 0],
+      "polygon": [
+        [400, 100],
+        [750, 100],
+        [780, 400],
+        [380, 420]
+      ],
+      "loitering_threshold_seconds": 30.0,
+      "alert_cooldown_seconds": 60.0
+    },
+    {
+      "id": "zone_perimeter",
+      "label": "Perimeter",
+      "color": [128, 0, 128],
+      "polygon": [
+        [600, 300],
+        [900, 280],
+        [920, 600],
+        [580, 620]
+      ],
+      "loitering_threshold_seconds": 15.0,
+      "alert_cooldown_seconds": 45.0
+    }
+  ]
+}
